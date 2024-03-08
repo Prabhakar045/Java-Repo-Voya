@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignments.iml" filepath="$PROJECT_DIR$/Assignments/Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookApplication/BookApplication.iml" filepath="$PROJECT_DIR$/BookApplication/BookApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Customer_collection_assignment/Customer_collection_assignment.iml" filepath="$PROJECT_DIR$/Assignments/Customer_collection_assignment/Customer_collection_assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExpetionHandling/ExpetionHandling.iml" filepath="$PROJECT_DIR$/ExpetionHandling/ExpetionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceDemos/InterfaceDemos.iml" filepath="$PROJECT_DIR$/InterfaceDemos/InterfaceDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDemos.iml" filepath="$PROJECT_DIR$/JavaDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreadingDemos/MultiThreadingDemos.iml" filepath="$PROJECT_DIR$/MultiThreadingDemos/MultiThreadingDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OppsDemos/OppsDemos.iml" filepath="$PROJECT_DIR$/OppsDemos/OppsDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserApp/UserApp.iml" filepath="$PROJECT_DIR$/UserApp/UserApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util_Collections/util_Collections.iml" filepath="$PROJECT_DIR$/util_Collections/util_Collections.iml" />
+    </modules>
+  </component>
+</project>
